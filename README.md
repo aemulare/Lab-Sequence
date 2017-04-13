@@ -24,7 +24,7 @@ Console application
 ## Author
 
 * Maria Romanova
-  https://github.com/aemulare
+  (https://github.com/aemulare)
 
 ## Project repository link
 
