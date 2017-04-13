@@ -17,12 +17,6 @@ Demonstrates the sequence of items (int, float, double, char, strings) and opera
 
 Console application
 
-## Files
-* SequenceDriver.cpp
-* Sequence.h
-* ErrorMessages.h
-* Shell.h
-
 ## Author
 
 * **Maria Romanova**
