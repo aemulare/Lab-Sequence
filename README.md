@@ -17,6 +17,9 @@ Model of an sequence of items (int, float, double, char, strings) and operations
 
 Console application
 
+## Screen shots
+
+![alt tag](https://raw.githubusercontent.com/aemulare/Lab-Sequence/master/Sequence-screen-shot.png)
 
 ## Project repository
 
