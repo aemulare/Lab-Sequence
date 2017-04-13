@@ -17,9 +17,6 @@ Model of an sequence of items (int, float, double, char, strings) and operations
 
 Console application
 
-## Author
-
-* **Maria Romanova**
 
 ## Project repository
 
