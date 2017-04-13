@@ -1,6 +1,6 @@
 # Sequence
 
-Demonstrates the sequence of items (int, float, double, char, strings) and operations with them
+Model of an sequence of items (int, float, double, char, strings) and operations with them.
 
 ## Project Assignment
 
