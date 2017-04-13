@@ -1,6 +1,6 @@
 # Sequence
 ## Course *CSC326 Information structures*
-*8888
+
 Demonstrates the sequence of items (int, float, double, char, strings) and operations with them
 
 ## Project Assignment
