@@ -1,7 +1,5 @@
-# Lab-Sequence
-CSC326 Information structures course
 # Sequence
-
+### CSC326 Information structures course
 Demonstrates the sequence of items (int, float, double, char, strings) and operations with them
 
 ## Project Assignment
