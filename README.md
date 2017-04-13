@@ -1,5 +1,4 @@
 # Sequence
-## Course *CSC326 Information structures*
 
 Demonstrates the sequence of items (int, float, double, char, strings) and operations with them
 
@@ -19,7 +18,10 @@ Demonstrates the sequence of items (int, float, double, char, strings) and opera
 Console application
 
 ## Files
-
+* SequenceDriver.cpp
+* Sequence.h
+* ErrorMessages.h
+* Shell.h
 
 ## Author
 
