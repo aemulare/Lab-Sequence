@@ -21,6 +21,10 @@ Console application
 
 ![alt tag](https://raw.githubusercontent.com/aemulare/Lab-Sequence/master/Sequence-screen-shot.png)
 
+## Author
+
+* Maria Romanova - (https://github.com/aemulare)
+
 ## Project repository link
 
 https://github.com/aemulare/Lab-Sequence
