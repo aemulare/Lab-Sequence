@@ -1,5 +1,5 @@
 # Sequence
-### CSC326 Information structures course
+### *CSC326 Information structures cours
 Demonstrates the sequence of items (int, float, double, char, strings) and operations with them
 
 ## Project Assignment
@@ -26,4 +26,4 @@ Console application
 
 ## Project repository
 
-https://github.com/aemulare/Lab-Sequence(
+https://github.com/aemulare/Lab-Sequence
