@@ -6,8 +6,7 @@ Demonstrates the sequence of items (int, float, double, char, strings) and opera
 
 ## Project Assignment
 
-> Implement a container class called a sequence. The items contained in a sequence are arranged  
-> one after the other, unlike a bag, which implies an unorganized arrangement of items. 
+> Implement a container class called a sequence. The items contained in a sequence are arranged one after the other, unlike a bag, which implies an unorganized arrangement of items. 
 > The class should include member functions to allow a program to step through a sequence 
 > one item at a time, as well as member functions to control exactly where items are inserted 
 > and removed in the sequence. 
@@ -23,10 +22,10 @@ Console application
 ## Files
 
 
-## Authors
+## Author
 
 * **Maria Romanova**
 
-##Project repository
+## Project repository
 
 https://github.com/aemulare/Lab-Sequence(
